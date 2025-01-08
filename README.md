@@ -8,6 +8,6 @@ This the light mode
 
 This the dark mode
 
-![NEWZ]()
+![NEWZ](https://github.com/Abdulbariky/news/blob/95062cbaf0076148a4e007b13744fcd7d249cdeb/Screenshot%20from%202025-01-08%2017-38-18.png)
 
 
